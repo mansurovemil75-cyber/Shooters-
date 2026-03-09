@@ -1,0 +1,6 @@
+[gd_resource type="Project" load_steps=3 format="2.0"]
+
+[env]
+  name="My Game"
+  main_scene="res://scenes/Main.tscn"
+  version="1.0"
